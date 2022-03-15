@@ -16,8 +16,7 @@
        </p>
          
         <p>
-        Rosebud heter hunden. <br>
-       Barnen heter Nelly, Thea Jill och Liam. Dem är underbara och snälla, tycker om glass. 
+        Rosebud heter hunden. <br> Barnen heter Nelly, Thea Jill och Liam. Dem är underbara och snälla, tycker om glass. 
         </p>
         
   </body>
