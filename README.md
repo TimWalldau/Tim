@@ -5,11 +5,16 @@
   <HEAD>
     
     <meta charset="utf-8"> 
-    <title>    </title>
+    <title> min fina sida </title>
  
     </head>
   
-      <body>
+    <body>
+      
+      <h1> rubrik </h1>
+        <h2> rubrik </h2>
+          <h3> rubrik </h3>
+            <h3> rubrik </h3>
         
        <p> 
        Pappa heter tim och emelie heter mamma. 
