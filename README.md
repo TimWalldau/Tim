@@ -1,28 +1,36 @@
 # Tim
-<html lang="se" dir="ltr">
+
+<!DOCTYPE htmL> 
+
+<html lang="sv" dir="ltr">
   
  
   <HEAD>
     
     <meta charset="utf-8"> 
-    <title> min fina sida </title>
+    <title> Min fina familj </title>
  
     </head>
   
     <body>
       
-      <h1> rubrik </h1>
-        <h2> rubrik </h2>
-          <h3> rubrik </h3>
-            <h3> rubrik </h3>
+      <h1> rubrik h1 </h1>
+        <h2> rubrik h2 </h2>
+          <h3> rubrik h3 </h3>
+            <h3> rubrik h3 </h3>
         
        <p> 
-       Pappa heter tim och emelie heter mamma. 
+     Familjen består av mamma, pappa, 4 barn, 2 katter och en hund.  
        </p>
          
         <p>
-        Rosebud heter hunden. <br> Barnen heter Nelly, Thea Jill och Liam. Dem är underbara och snälla, tycker om glass. 
+        Mamma heter Emelie, pappa heter tim, våra kära barn heter Jill, Nelly, Thea och Liam. <br>
+        Hunden heter Rosebud, Katterna Kiwi och Bamse.  
         </p>
+        
+      <p> 
+      på fritiden leker, dansar och pysslar vi.
+      </p>
         
   </body>
   
